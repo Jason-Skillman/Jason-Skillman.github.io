@@ -175,6 +175,11 @@
     margin-right: initial;
     margin-left: initial;
   }
+
+  .u-section-3 .embed-responsive-1 {
+    left: -39%;
+    top: -39%;
+  }
 }.u-section-4 .u-sheet-1 {
   min-height: 400px;
   margin-bottom: 0;
